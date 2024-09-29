@@ -30,6 +30,6 @@ Use this in the folder containing the Galgenmann-Binary (tests on a Mac only)
 ## Styleguide
 a little Styleguide to get a constant naming
 * CLASS: full capitalized
-* FunctionsAndMethods: camelCase
+* functionsAndMethods: camelCase
 * variables_and_properties: snake_case
-* Constants: full capitalized
+* CONSTANTS: full capitalized
